@@ -1,0 +1,10 @@
+inside_person
+outside
+ignore_IN
+ignore_OUT
+ignore_IO
+time
+inside_car
+pay_region
+queue_region
+cashier_region
